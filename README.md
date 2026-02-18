@@ -71,5 +71,3 @@ Developed an interactive Power BI dashboard showcasing:
 - Revenue by category  
 - Loyalty segmentation  
 - Subscription insights  
-
--
