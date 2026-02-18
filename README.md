@@ -34,7 +34,7 @@ The dataset is heavily skewed toward repeat and loyal buyers.
 
 ### Subscription Impact
 - **27%** of customers are subscribers.  
-- Non-subscribers have a slightly higher average spend **($59.87)** than subscribers **($59.49)**.
+- Non-subscribers have a slightly higher average spend than subscribers.
 
 ### Product Performance
 - **Clothing** is the top revenue-generating category.  
